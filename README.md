@@ -1,4 +1,4 @@
-# Merge-LLMs
+# Merge-LLMs-by-Mergekit
 This repo contains a new tool that can merge multiple LLMs by using **mergekit**
 
 
